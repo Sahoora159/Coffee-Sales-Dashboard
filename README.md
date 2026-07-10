@@ -120,7 +120,7 @@ The dataset includes information such as:
 
 After uploading your screenshot, GitHub will automatically display it here.
 
-![Coffee Sales Dashboard](Images/Dashboard.png)
+![Coffee Sales Dashboard](Dashboard.PNG)
 
 ---
 
