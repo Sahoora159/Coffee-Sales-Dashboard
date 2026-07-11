@@ -71,6 +71,9 @@ Coffee-Sales-Dashboard/
 │
 ├── Images/
 │   └── Dashboard.png
+|
+├── Images/
+│   └──Coffee_Dashboard_Case_Study.pdf
 │
 ├── README.md
 
